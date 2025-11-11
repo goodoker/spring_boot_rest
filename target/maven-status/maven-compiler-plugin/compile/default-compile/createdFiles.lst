@@ -1,0 +1,7 @@
+ru\netology\javaclo_2_spring_boot_rest\model\Authorities.class
+ru\netology\javaclo_2_spring_boot_rest\controller\AuthorizationController.class
+ru\netology\javaclo_2_spring_boot_rest\repository\UserRepository.class
+ru\netology\javaclo_2_spring_boot_rest\service\AuthorizationService.class
+ru\netology\javaclo_2_spring_boot_rest\exception\UnauthorizedUser.class
+ru\netology\javaclo_2_spring_boot_rest\exception\InvalidCredentials.class
+ru\netology\javaclo_2_spring_boot_rest\JavaClo2SpringBootRestApplication.class
